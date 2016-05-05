@@ -1,0 +1,22 @@
+﻿<Properties StartupItem="Sample/Sample.csproj">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Sample/ViewController.cs">
+    <Files>
+      <File FileName="RTWalkthrough/ApiDefinition.cs" Line="49" Column="2" />
+      <File FileName="RTWalkthrough/Structs.cs" Line="7" Column="47" />
+      <File FileName="Sample/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="Sample/ViewController.cs" Line="32" Column="12" />
+      <File FileName="Sample/ViewController.designer.cs" Line="12" Column="2" />
+      <File FileName="RTWalkthrough/libRTWalkthrough.linkwith.cs" Line="1" Column="1" />
+      <File FileName="Sample/Main.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/MBruins/RTWalkthrough/Sample/ViewController.cs" line="20" column="14" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.RTWalkthrough PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Sample PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0505297F-1DD4-43D7-8842-176B6D783418" />
+</Properties>

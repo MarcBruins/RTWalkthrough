@@ -1,0 +1,5 @@
+/Users/MBruins/RTWalkthrough/RTWalkthrough/obj/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/MBruins/RTWalkthrough/RTWalkthrough/bin/Debug/RTWalkthrough.dll.mdb
+/Users/MBruins/RTWalkthrough/RTWalkthrough/bin/Debug/RTWalkthrough.dll
+/Users/MBruins/RTWalkthrough/RTWalkthrough/obj/Debug/RTWalkthrough.dll
+/Users/MBruins/RTWalkthrough/RTWalkthrough/obj/Debug/RTWalkthrough.dll.mdb
